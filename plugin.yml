@@ -1,0 +1,11 @@
+name: Thanos
+main: thanos\pmmdst\Thanos
+author: pmmdst
+api: 3.0.0
+version: 0.0.2
+
+commands:
+ gangtay:
+  description: Lấy Găng Tay Thanos
+  permission: gangtay.command
+  default: op
